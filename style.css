@@ -49,7 +49,7 @@ header{
 }
 
 footer{
-	background: black url(images/bg-footer.png) no-repeat center top;
+	background: black url(img/bg-footer.png) no-repeat center top;
 	background-size:100% auto;
 	padding-top:20vw;
 }
