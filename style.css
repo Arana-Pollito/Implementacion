@@ -42,7 +42,7 @@ p.lead{
 header{
 	height: 70vh;
 	min-height: 400px;
-	background: linear-gradient(rgba(165,150,135,0.1), rgba(165,150,135,1)), url(images/bg-header.jpg);
+	background: linear-gradient(rgba(165,150,135,0.1), rgba(165,150,135,1)), url(img/header_compu.png);
 	background-position: center top;
 	background-size:cover;
 	background-repeat: no-repeat;
