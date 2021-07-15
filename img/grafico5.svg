@@ -1,0 +1,186 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#A39688;}
+	.st2{fill:#333333;}
+	.st3{opacity:0.3;}
+	.st4{fill:#FFFFFF;stroke:#A2004A;stroke-width:34;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#FFF445;stroke-width:34;}
+	.st6{fill:none;stroke:#B9DCFF;stroke-width:34;}
+	.st7{fill:#595959;}
+	.st8{font-family:'Montserrat-Medium';}
+	.st9{font-size:15px;}
+	.st10{fill:#262626;}
+	.st11{font-family:'Montserrat-Bold';}
+	.st12{font-size:16px;}
+	.st13{enable-background:new    ;}
+	.st14{fill:#EBEBEB;}
+	.st15{font-size:17px;}
+	.st16{font-size:20px;}
+	.st17{fill:none;}
+	.st18{fill:#3B3B3B;}
+	.st19{font-size:24px;}
+</style>
+<g id="Capa_2" class="st0">
+	<rect x="-157.6" y="78.2" class="st1" width="938" height="767.2"/>
+</g>
+<g id="Capa_1">
+	<g>
+		<rect x="29.5" y="184.1" class="st2" width="4.7" height="34">
+		<title>Viuda negra: 1</title>
+		</rect>
+		<rect x="29.5" y="223.1" class="st2" width="4.7" height="34">
+		<title>Araña de rincón: 1</title>
+		</rect>
+		<rect x="29.5" y="262.1" class="st2" width="4.7" height="34">
+		<title>Araña lobo: 1</title>
+		</rect>
+		<rect x="29.5" y="301.1" class="st2" width="4.7" height="34">
+		<title>Falsa viuda negra: 1</title>
+		</rect>
+		<rect x="29.5" y="340.1" class="st2" width="4.7" height="34">
+		<title>Araña sicario : 1</title>
+		</rect>
+		<rect x="29.5" y="379.1" class="st2" width="4.7" height="34">
+		<title>Araña del ratón: 1</title>
+		</rect>
+		<rect x="29.5" y="418.1" class="st2" width="4.7" height="34">
+		<title>Araña cangrejo: 1</title>
+		</rect>
+		<rect x="29.5" y="457.1" class="st2" width="4.7" height="34">
+		<title>Arañon del monte: 1</title>
+		</rect>
+		<rect x="29.5" y="496.1" class="st2" width="4.7" height="34">
+		<title>Araña del boldo: 1</title>
+		</rect>
+		<rect x="29.5" y="535.1" class="st2" width="4.7" height="34">
+		<title>Argiope argentata: 1</title>
+		</rect>
+		<rect x="29.5" y="574.1" class="st2" width="4.7" height="34">
+		<title>Euathlus sp. (Araña Pollito): 1</title>
+		</rect>
+		<rect x="29.5" y="613.1" class="st2" width="4.7" height="34">
+		<title>Araña fantasma: 1</title>
+		</rect>
+		<rect x="29.5" y="652.1" class="st2" width="4.7" height="34">
+		<title>Metepeira sp.: 1</title>
+		</rect>
+		<rect x="29.5" y="691.1" class="st2" width="4.7" height="34">
+		<title>Platnickia sp.: 1</title>
+		</rect>
+		<rect x="29.5" y="730.1" class="st2" width="4.7" height="34">
+		<title>Araña saltarina: 1</title>
+		</rect>
+		<rect x="768.6" y="214.1" class="st2" width="4.7" height="68">
+		<title>Mortal y peligrosa: 2</title>
+		</rect>
+		<rect x="768.6" y="287.1" class="st2" width="4.7" height="136">
+		<title>Tóxica con mordida dolorosa
+: 4</title>
+		</rect>
+		<rect x="768.6" y="428.1" class="st2" width="4.7" height="306">
+		<title>Sin riesgo: 9</title>
+		</rect>
+	</g>
+	<g class="st3">
+		<g>
+			<path class="st4" d="M34.2,201.1c367.2,0,367.2,30,734.4,30"/>
+			<title>Viuda negra → Mortal y peligrosa: 1</title>
+		</g>
+		<g>
+			<path class="st4" d="M34.2,240.1c367.2,0,367.2,25,734.4,25"/>
+			<title>Araña de rincón → Mortal y peligrosa: 1</title>
+		</g>
+		<g>
+			<path class="st5" d="M34.2,279.1c367.2,0,367.2,25,734.4,25"/>
+			<title>Araña lobo → Tóxica con mordida dolorosa
+: 1</title>
+		</g>
+		<g>
+			<path class="st5" d="M34.2,318.1c367.2,0,367.2,20,734.4,20"/>
+			<title>Falsa viuda negra → Tóxica con mordida dolorosa
+: 1</title>
+		</g>
+		<g>
+			<path class="st5" d="M34.2,357.1c367.2,0,367.2,15,734.4,15"/>
+			<title>Araña sicario  → Tóxica con mordida dolorosa
+: 1</title>
+		</g>
+		<g>
+			<path class="st5" d="M34.2,396.1c367.2,0,367.2,10,734.4,10"/>
+			<title>Araña del ratón → Tóxica con mordida dolorosa
+: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,435.1c367.2,0,367.2,10,734.4,10"/>
+			<title>Araña cangrejo → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,474.1c367.2,0,367.2,5,734.4,5"/>
+			<title>Arañon del monte → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,513.1c367.2,0,367.2,0,734.4,0"/>
+			<title>Araña del boldo → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,552.1c367.2,0,367.2-5,734.4-5"/>
+			<title>Argiope argentata → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,591.1c367.2,0,367.2-10,734.4-10"/>
+			<title>Euathlus sp. (Araña Pollito) → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,630.1c367.2,0,367.2-15,734.4-15"/>
+			<title>Araña fantasma → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,669.1c367.2,0,367.2-20,734.4-20"/>
+			<title>Metepeira sp. → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,708.1c367.2,0,367.2-25,734.4-25"/>
+			<title>Platnickia sp. → Sin riesgo: 1</title>
+		</g>
+		<g>
+			<path class="st6" d="M34.2,747.1c367.2,0,367.2-30,734.4-30"/>
+			<title>Araña saltarina → Sin riesgo: 1</title>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 38.4893 206.595)" class="st7 st8 st9">Viuda negra</text>
+	<text transform="matrix(1 0 0 1 38.4893 244.595)" class="st7 st8 st9">Araña de rincón</text>
+	<text transform="matrix(1 0 0 1 38.4893 284.595)" class="st7 st8 st9">Araña lobo</text>
+	<text transform="matrix(1 0 0 1 38.4893 322.595)" class="st7 st8 st9">Falsa viuda negra</text>
+	<text transform="matrix(1 0 0 1 38.4893 361.595)" class="st7 st8 st9">Araña sicario</text>
+	<text transform="matrix(1 0 0 1 38.4893 399.595)" class="st7 st8 st9">Araña del ratón</text>
+	<text transform="matrix(1 0 0 1 38.4893 438.595)" class="st7 st8 st9">Araña cangrejo</text>
+	<text transform="matrix(1 0 0 1 38.4893 478.595)" class="st7 st8 st9">Arañon del monte</text>
+	<text transform="matrix(1 0 0 1 38.4893 517.595)" class="st7 st8 st9">Araña del boldo</text>
+	<text transform="matrix(1 0 0 1 38.4893 555.595)" class="st7 st8 st9">Argiope argentata</text>
+	<text transform="matrix(1 0 0 1 38.4893 595.595)" class="st10 st11 st12">Euathlus sp. (Araña Pollito)</text>
+	<text transform="matrix(1 0 0 1 38.4893 635.595)" class="st7 st8 st9">Araña fantasma</text>
+	<text transform="matrix(1 0 0 1 38.4893 673.595)" class="st7 st8 st9">Metepeira sp.</text>
+	<text transform="matrix(1 0 0 1 38.4893 711.595)" class="st7 st8 st9">Platnickia sp.</text>
+	<text transform="matrix(1 0 0 1 38.4893 749.595)" class="st7 st8 st9">Araña saltarina</text>
+	<text transform="matrix(1 0 0 1 680.4649 243.5951)" class="st13"><tspan x="0" y="0" class="st14 st11 st15">Mortal y</tspan><tspan x="-9.9" y="20.4" class="st14 st11 st15">peligrosa</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 670.5878 586.1132)" class="st14 st11 st15">Sin riesgo</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 14.9823 174.1141)" class="st7 st11 st16">Araña</text>
+		<g>
+			<text transform="matrix(1 0 0 1 684.5637 194.1141)" class="st7 st11 st16">Picadura</text>
+		</g>
+	</g>
+	<g>
+		<rect x="655.4" y="339.2" class="st17" width="97.7" height="66.9"/>
+		<text transform="matrix(1 0 0 1 657.991 351.7812)"><tspan x="0" y="0" class="st14 st11 st15">Tóxica con </tspan><tspan x="19.7" y="20.4" class="st14 st11 st15">mordida </tspan><tspan x="18" y="40.8" class="st14 st11 st15">dolorosa</tspan></text>
+	</g>
+	<g>
+		<rect x="243.8" y="58" class="st17" width="312.5" height="58"/>
+		<text transform="matrix(1 0 0 1 254.9224 75.7836)"><tspan x="0" y="0" class="st18 st11 st19">Clasificación de arañas </tspan><tspan x="29.7" y="28.8" class="st18 st11 st19">según la picadura.</tspan></text>
+	</g>
+</g>
+</svg>
